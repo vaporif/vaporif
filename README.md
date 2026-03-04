@@ -2,7 +2,7 @@
 
 Systems/protocol engineer, 15 years in the industry. Currently focused on cross-chain infrastructure — IBC, Solana, Cosmos ecosystem. Rust and Go.
 
-Previously built and led engineering teams, ran DevOps orgs, did architecture and presales at a consultancy for 7 years before moving into blockchain.
+Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
 ### What I've been working on
 
@@ -17,6 +17,7 @@ Previously built and led engineering teams, ran DevOps orgs, did architecture an
 ### Side projects
 
 - [parry](https://github.com/vaporif/parry) — prompt injection scanner for Claude Code hooks
+- [mcp-server-qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust with candle/ONNX backends
 - [mcp-servers-nix](https://github.com/vaporif/mcp-servers-nix) — Nix framework for MCP servers (contributor)
 - [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
