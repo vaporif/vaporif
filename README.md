@@ -23,5 +23,5 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
 - [earthtone.nvim](https://github.com/vaporif/earthtone.nvim) — warm earth-tone Neovim colorscheme
-- [nix config](https://github.com/vaporif/nix-darwin) — personal cross-platform Nix setup with sops, MCP servers, stylix
+- [nix config](https://github.com/vaporif/nix-darwin) — personal cross-platform Nix setup with my whole workflow (nvim, claude, tooling)
   
