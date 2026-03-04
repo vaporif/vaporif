@@ -4,12 +4,9 @@ Systems/protocol engineer, 15 years in the industry. Currently focused on cross-
 
 Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
-### What I've been working on
+### Work
 
 - **IBC v2 for Solana** — light clients, packet relay, router, ift, etc within limits ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
-
-### Past work
-
 - **Axelar relayer rewrite** — re-architected from scratch ([eigerco/axelar-relayer-core](https://github.com/eigerco/axelar-relayer-core))
 - **Starknet ↔ Axelar integration** ([eigerco/giza-axelar-starknet](https://github.com/eigerco/giza-axelar-starknet))
 - **Hyperlane integration for Sovereign SDK** ([Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk))
@@ -22,6 +19,6 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
-- [earthtone.nvim](https://github.com/vaporif/earthtone.nvim) — warm earth-tone Neovim colorscheme
 - [nix config](https://github.com/vaporif/nix-darwin) — personal cross-platform Nix setup with my whole workflow (nvim, claude, tooling)
+- [earthtone.nvim](https://github.com/vaporif/earthtone.nvim) — warm earth-tone Neovim colorscheme
   
