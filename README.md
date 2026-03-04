@@ -6,7 +6,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### What I've been working on
 
-- **IBC v2 for Solana** — light clients, packet relay, signature verification within Solana's compute limits ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
+- **IBC v2 for Solana** — light clients, packet relay, router, ift, etc within limits ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
 
 ### Past work
 
