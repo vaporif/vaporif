@@ -24,5 +24,4 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
 - [earthtone.nvim](https://github.com/vaporif/earthtone.nvim) — warm earth-tone Neovim colorscheme
 - [nix config](https://github.com/vaporif/nix-darwin) — personal cross-platform Nix setup with sops, MCP servers, stylix
-
-Open to senior/staff protocol engineering, infrastructure, or tech lead roles.
+  
