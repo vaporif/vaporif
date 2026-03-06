@@ -15,7 +15,6 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 - [parry](https://github.com/vaporif/parry) — prompt injection scanner for Claude Code hooks
 - [mcp-server-qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust with candle/ONNX backends
-- [mcp-servers-nix](https://github.com/vaporif/mcp-servers-nix) — Nix framework for MCP servers (contributor)
 - [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
