@@ -13,7 +13,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### Side projects
 
-- [parry](https://github.com/vaporif/parry) — prompt injection scanner for Claude Code hooks
+- [parry](https://github.com/vaporif/parry) — local only prompt injection scanner for Claude Code hooks
 - [mcp-server-qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
 - [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
