@@ -14,10 +14,14 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 ### Side projects
 
 - [parry](https://github.com/vaporif/parry) — local only prompt injection scanner for Claude Code hooks
+
+MCP servers:
 - [mcp-server-qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
+- [mcp-server-youtube](https://github.com/vaporif/mcp-server-youtube) - MCP server for youtube (full Youtube DATA v3 support)
 - [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
+
+Extra:
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
 - [nix config](https://github.com/vaporif/nix-darwin) — personal cross-platform Nix setup with my whole workflow (nvim, claude, tooling)
 - [earthtone.nvim](https://github.com/vaporif/earthtone.nvim) — warm earth-tone Neovim colorscheme
-  
