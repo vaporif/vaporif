@@ -17,9 +17,9 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries 
 
 MCP servers:
-- [mcp-server-qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
-- [mcp-server-youtube](https://github.com/vaporif/mcp-server-youtube) - MCP server for youtube (full Youtube DATA v3 support)
-- [wezterm-mcp](https://github.com/vaporif/wezterm-mcp) — MCP server for WezTerm
+- [qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
+- [youtube](https://github.com/vaporif/mcp-server-youtube)
+- [wezterm](https://github.com/vaporif/mcp-server-wezterm)
 - [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
 
 Extra:
