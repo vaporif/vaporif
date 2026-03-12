@@ -13,7 +13,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### Side projects
 
-- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer, currently in design/architecture phase.
+- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer, currently in early active development phase.
 - [parry](https://github.com/vaporif/parry) — local only prompt injection scanner for Claude Code hooks
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
 
