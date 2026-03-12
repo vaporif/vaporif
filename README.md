@@ -13,7 +13,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### Side projects
 
-- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks.
+- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks. Working Cosmos↔Cosmos base e2e tests.
 - [parry](https://github.com/vaporif/parry) — local only prompt injection scanner for Claude Code hooks
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
 
