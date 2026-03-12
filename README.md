@@ -21,7 +21,7 @@ MCP servers:
 - [qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
 - [youtube](https://github.com/vaporif/mcp-server-youtube)
 - [wezterm](https://github.com/vaporif/mcp-server-wezterm)
-- [tidal-cycles-mcp](https://github.com/vaporif/tidal-cycles-mcp) — MCP server for TidalCycles
+- [tidal-cycles](mcp-server-tidal-cycles)
 
 Extra:
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
