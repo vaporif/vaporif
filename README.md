@@ -19,10 +19,11 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
 
 ##### MCP servers
-- [qdrant](https://github.com/vaporif/mcp-server-qdrant) — port of official MCP server to Rust
+- [Ableton Live](https://github.com/vaporif/mcp-server-ableton)
+- [tidal-cycles](https://github.com/vaporif/mcp-server-tidal-cycles)
+- [qdrant](https://github.com/vaporif/mcp-server-qdrant) 
 - [youtube](https://github.com/vaporif/mcp-server-youtube)
 - [wezterm](https://github.com/vaporif/mcp-server-wezterm)
-- [tidal-cycles](https://github.com/vaporif/mcp-server-tidal-cycles)
 
 ##### Extra:
 - [vim-tidal-lua](https://github.com/vaporif/vim-tidal-lua) — TidalCycles Neovim plugin in Lua
