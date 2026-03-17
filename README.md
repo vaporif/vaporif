@@ -12,7 +12,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - **Hyperlane integration for Sovereign SDK** ([Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk))
 
 ### Side projects:
-- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks. Working Cosmos↔Cosmos base e2e tests.
+- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks. Working Cosmos↔Cosmos + mocked client Ethereum↔Cosmos e2e tests.
 - [parry-guard](https://github.com/vaporif/parry-guard) — Prompt injection scanner for Claude Code. Runs DeBERTa/Llama transformers via Candle or ONNX in Rust
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
 
