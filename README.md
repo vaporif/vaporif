@@ -1,6 +1,6 @@
 ## Hey
 
-15 years in the industry of software development. Currently focused on cross-chain infrastructure — IBC, Solana, Cosmos ecosystem + ETH. Rust and Go.
+15 years in the industry of software development. Currently focused on cross-chain infrastructure — Solana, Eth, Cosmos, IBC. Rust and Go.
 
 Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
