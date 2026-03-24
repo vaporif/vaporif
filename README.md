@@ -13,6 +13,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### Side projects:
 - [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks. Working Cosmos↔Cosmos + sp1 wip Ethereum↔Cosmos e2e tests.
+- [mote](https://github.com/vaporif/mote) - Ephemeral on-chain storage as an OP Stack L3, built on reth. SQL query blochchain through Apache Datafusion.
 - [parry-guard](https://github.com/vaporif/parry-guard) — Prompt injection scanner for Claude Code. Runs DeBERTa/Llama transformers via Candle or ONNX in Rust
 - [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
 
