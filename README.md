@@ -4,7 +4,7 @@
 
 Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
-Connect with [Signal](https://signal.me/#eu/nP_fBJ_HR-R1YeNUahMZGYfFx-yqdhAnYKiTGPQWN5JsMQaklTJFoop2o8HIJldA)
+[Connect on Signal](https://signal.me/#eu/nP_fBJ_HR-R1YeNUahMZGYfFx-yqdhAnYKiTGPQWN5JsMQaklTJFoop2o8HIJldA)
 
 ### Work
 
