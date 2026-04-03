@@ -11,10 +11,6 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - **Starknet ↔ Axelar integration** ([eigerco/giza-axelar-starknet](https://github.com/eigerco/giza-axelar-starknet))
 - **Hyperlane integration for Sovereign SDK** ([Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk))
 
-### Side projects:
-- [mercury](https://github.com/vaporif/mercury) - IBC v2 relayer built from scratch. Plain Rust traits, no frameworks.
-- [glint](https://github.com/vaporif/glint) - Ephemeral on-chain storage with SQL queries, built on reth.
-- [parry-guard](https://github.com/vaporif/parry-guard) — Prompt injection scanner for Claude Code. Runs DeBERTa/Llama transformers via Candle or ONNX in Rust
-- [rvx](https://github.com/vaporif/rvx) — rvx for Rust — download and run pre-built crate binaries
+Blockchain, AI tooling, dev tools, music software, etc.
 
-+ A bunch of MCP servers, nix overlays and extra tooling.
+See pinned repos below and more at [repos](https://github.com/vaporif?tab=repositories)
