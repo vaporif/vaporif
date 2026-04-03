@@ -4,6 +4,8 @@
 
 Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
+Signal at https://signal.me/#eu/nP_fBJ_HR-R1YeNUahMZGYfFx-yqdhAnYKiTGPQWN5JsMQaklTJFoop2o8HIJldA
+
 ### Work
 
 - **IBC v2 for Solana** — light clients, packet relay, router, ift, verification ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
