@@ -8,7 +8,7 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 
 ### Work
 
-- **IBC v2 for Solana** — light clients, packet relay, router, ift, verification ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
+- **IBC v2 for Solana** — from scratch fully implemented: light clients, packet relay, router, ift, verification ([cosmos/solidity-ibc-eureka](https://github.com/cosmos/solidity-ibc-eureka))
 - **Axelar relayer rewrite** — re-architected from scratch ([eigerco/axelar-relayer-core](https://github.com/eigerco/axelar-relayer-core))
 - **Starknet ↔ Axelar integration** ([eigerco/giza-axelar-starknet](https://github.com/eigerco/giza-axelar-starknet))
 - **Hyperlane integration for Sovereign SDK** ([Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk))
