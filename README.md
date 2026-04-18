@@ -1,6 +1,6 @@
 ## Hey
 
-15 years building software. Currently focused on cross-chain infrastructure — Solana, Eth, Cosmos, IBC. Rust and Go. Blockchain, AI tooling, dev tools, and music software.
+15 years building software. Currently focused on cross-chain infrastructure — Solana, Eth, Cosmos, IBC. Rust and Go. Blockchain, AI inference, AI tooling, other dev tools, and music software.
 
 Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
 
