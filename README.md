@@ -2,7 +2,7 @@
 
 15 years building software. Worked on cross-chain infrastructure — Solana, Eth, Cosmos, Axelar, IBC. Blockchain, AI inference/tooling, and music software.
 
-Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain.
+Previously built and led engineering teams, ran DevOps dept, did architecture and presales at a consultancy for 7 years before moving into blockchain/fintech.
 
 [Connect on Signal](https://signal.me/#eu/nP_fBJ_HR-R1YeNUahMZGYfFx-yqdhAnYKiTGPQWN5JsMQaklTJFoop2o8HIJldA)
 
@@ -12,5 +12,6 @@ Previously built and led engineering teams, ran DevOps dept, did architecture an
 - **Axelar relayer rewrite** — re-architected from scratch ([eigerco/axelar-relayer-core](https://github.com/eigerco/axelar-relayer-core))
 - **Starknet ↔ Axelar integration** ([eigerco/giza-axelar-starknet](https://github.com/eigerco/giza-axelar-starknet))
 - **Hyperlane integration for Sovereign SDK** ([Sovereign-Labs/sovereign-sdk](https://github.com/Sovereign-Labs/sovereign-sdk))
+- Currently building high perf sub 1 ms latency closed source CEX engine for ([Justmarkets]([https://github.com/Sovereign-Labs/sovereign-sdk](https://justmarkets.com/))) with 0 third party infra deps in core: no docker, k8s, no db's, no queues. Instead all custom built in glibc system calls.
 
 See pinned repos below and more at [repos](https://github.com/vaporif?tab=repositories)
